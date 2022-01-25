@@ -8,7 +8,7 @@ Categories will be used.
 
 * [Automation](automation.md)
 
-## Containers and Kubernetes
+## Containers and Kubernetes/OpenShift
 
 * [Containers and Kubernetes](containers.md)
 
